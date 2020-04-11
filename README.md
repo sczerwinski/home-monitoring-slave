@@ -28,3 +28,11 @@ When using DHT11 sensor instead of DHT22, change `DHT_TYPE` to `DHT11`.
 
 Bluetooth module can only be connected to at GPIO0 (RX) and GPIO1 (TX).To connect bluetooth module at different GPIO,
 use an instance of [`SoftwareSerial`](https://www.arduino.cc/en/Reference/SoftwareSerialConstructor) instead of `Serial`.
+
+## Attributions
+
+Images exported from Fritzing editor shared under [CC BY-SA 3.0 License](https://creativecommons.org/licenses/by-sa/3.0/).
+
+Image of [HM-10 Bluetooth module](https://github.com/RafaGS/Fritzing/blob/master/Bluetooth%20HM-10.fzpz)
+by [@RafaGS](https://github.com/RafaGS) shared under
+[GNU General Public License v2.0](https://github.com/RafaGS/Fritzing/blob/master/LICENSE).
