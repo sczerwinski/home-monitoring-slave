@@ -12,6 +12,8 @@ This project uses [Adafruit DHT Humidity & Temperature Sensor Library](https://g
 * DHT22 humidity and temperature sensor
 * 5~10k Ohm resistor (unless using 3-pin DHT22 circuit with integrated resistor)
 
+![Breadboard](https://raw.githubusercontent.com/sczerwinski/home-monitoring-slave/develop/images/home-monitoring-slave.png)
+
 ## Configuration
 
 ```c
