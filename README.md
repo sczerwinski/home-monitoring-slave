@@ -10,6 +10,7 @@ This project uses [Adafruit DHT Humidity & Temperature Sensor Library](https://g
 * Arduino Nano (should also work with other Arduino boards)
 * HM-10 Bluetooth 4.0 module or compatible
 * DHT22 humidity and temperature sensor
+* 5~10k Ohm resistor (unless using 3-pin DHT22 circuit with integrated resistor)
 
 ## Configuration
 
